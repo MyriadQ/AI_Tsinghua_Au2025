@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/celery/Documents/Research/AI_Tsinghua_Au_2025/Code/fold_e_mask0/gat_e0_weights_best.ckpt"
+all_model_checkpoint_paths: "/home/celery/Documents/Research/AI_Tsinghua_Au_2025/Code/fold_e_mask0/gat_e0_weights_best.ckpt"
